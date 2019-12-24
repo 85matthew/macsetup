@@ -37,9 +37,12 @@ cask 'intellij-idea-ce'
 
 cask 'docker'
 cask 'evernote'
+cask 'google-cloud-sdk'
 cask 'iterm2'
 cask 'google-chrome'
+cask 'keybase'
 cask 'firefox'
+cask 'rocket'
 #cask 'slack'
 cask 'spotify'
 cask 'virtualbox'
@@ -49,7 +52,6 @@ cask 'vagrant'
 
 # Database
 # brew 'postgresql'
-
 
 
 
