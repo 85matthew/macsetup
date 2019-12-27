@@ -32,8 +32,8 @@ brew 'wget'
 
 
 # Intellij Idea
-cask 'intellij-idea-ce'
-# cask 'intellij-idea'
+# cask 'intellij-idea-ce'
+cask 'intellij-idea'
 
 cask 'docker'
 cask 'evernote'
@@ -45,8 +45,9 @@ cask 'firefox'
 cask 'rocket'
 #cask 'slack'
 cask 'spotify'
-cask 'virtualbox'
 cask 'vagrant'
+cask 'virtualbox'
+#cask 'visual-studio-code'
 #cask 'whatsapp'
 
 
