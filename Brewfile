@@ -3,6 +3,7 @@
 cask_args appdir: '/Applications'
 
 tap 'homebrew/cask'
+#tap 'jenkins-x/jx'
 
 brew 'pyenv'
 # brew 'slack'
@@ -18,6 +19,7 @@ brew 'golang'
 brew 'helm'
 brew 'hub'
 brew 'jq'
+#brew 'jx'
 brew 'kubectx'
 brew 'kubectl'
 brew 'minikube'
