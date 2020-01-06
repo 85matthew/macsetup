@@ -3,14 +3,13 @@
 cask_args appdir: '/Applications'
 
 tap 'homebrew/cask'
+tap 'adoptopenjdk/openjdk'
 #tap 'jenkins-x/jx'
 
 brew 'pyenv'
 # brew 'slack'
 
-# tap 'adoptopenjdk/openjdk'
-# cask 'adoptopenjdk10'
-
+cask 'adoptopenjdk13'
 brew 'ansible'
 brew 'awscli'
 brew 'curl'
@@ -26,6 +25,7 @@ brew 'kubernetes-helm'
 brew 'kubectx'
 brew 'kubectl'
 brew 'minikube'
+brew 'maven'
 brew 'openssl'
 brew 'terraform_landscape'
 brew 'tfenv'
