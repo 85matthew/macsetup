@@ -9,7 +9,7 @@ tap 'adoptopenjdk/openjdk'
 brew 'pyenv'
 # brew 'slack'
 
-cask 'adoptopenjdk13'
+cask 'adoptopenjdk8'
 brew 'ansible'
 brew 'awscli'
 brew 'curl'
