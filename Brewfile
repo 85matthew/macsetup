@@ -51,8 +51,8 @@ cask 'rocket'
 #cask 'slack'
 cask 'spotify'
 cask 'vagrant'
-cask 'virtualbox'
-#cask 'visual-studio-code'
+#cask 'virtualbox'
+cask 'visual-studio-code'
 #cask 'whatsapp'
 
 
