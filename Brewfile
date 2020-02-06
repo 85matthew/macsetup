@@ -37,8 +37,8 @@ brew 'wget'
 
 
 # Intellij Idea
-# cask 'intellij-idea-ce'
-cask 'intellij-idea'
+cask 'intellij-idea-ce'
+# cask 'intellij-idea'
 
 cask 'docker'
 cask 'evernote'
