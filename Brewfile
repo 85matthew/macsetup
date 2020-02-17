@@ -10,6 +10,7 @@ brew 'pyenv'
 # brew 'slack'
 
 cask 'adoptopenjdk8'
+cask 'atom'
 brew 'ansible'
 brew 'awscli'
 brew 'curl'
@@ -30,6 +31,8 @@ brew 'openssl'
 brew 'terraform_landscape'
 brew 'tfenv'
 brew 'wget'
+brew 'zsh'
+brew 'zsh-completions'
 
 # AWS
 # brew 'aws-vault'
