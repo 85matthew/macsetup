@@ -40,22 +40,22 @@ brew 'zsh-completions'
 
 
 # Intellij Idea
-cask 'intellij-idea-ce'
-# cask 'intellij-idea'
+# cask 'intellij-idea-ce'
+cask 'intellij-idea'
 
 cask 'docker'
 cask 'evernote'
 cask 'google-cloud-sdk'
 cask 'iterm2'
-cask 'google-chrome'
+#cask 'google-chrome'
 cask 'keybase'
-cask 'firefox'
+#cask 'firefox'
 cask 'rocket'
 #cask 'slack'
 cask 'spotify'
 cask 'vagrant'
-#cask 'virtualbox'
-cask 'visual-studio-code'
+# cask 'virtualbox'
+# cask 'visual-studio-code'
 #cask 'whatsapp'
 
 
