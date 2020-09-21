@@ -1,4 +1,19 @@
 #!/bin/bash
 
 pip install boto3 --user
+pip install boto --user
+pip install ansible --user
+pip install ansible-lint --user
+pip3 install podman-compose
+pip install passlib --user
+pip install ansible --user
+pip install ansible-tower-cli --user
+pip install requests --user
+
+
+
+# Red Hat Specific
+pip install aws-automation --user
+
+
 
